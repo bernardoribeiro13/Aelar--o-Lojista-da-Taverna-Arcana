@@ -1,0 +1,123 @@
+[
+  {
+    "nome": "Conjunto de Dados Poliedrais",
+    "sku": "DADOS001",
+    "preco": 39.90,
+    "categoria": "Acessórios",
+    "tags": ["dados", "RPG", "jogo"],
+    "descricao": "Conjunto com 7 dados coloridos para RPG de mesa nas cores, verde, azul, vermelho e preto."
+  },
+  {
+    "nome": "Miniatura de Dragão Vermelho adulto",
+    "sku": "MINI002",
+    "preco": 89.90,
+    "categoria": "Miniaturas",
+    "tags": ["dragão", "fantasia", "colecionável"],
+    "descricao": "Miniatura detalhada de dragão vermelho adulto para jogos de RPG."
+  },
+  {
+    "nome": "Camiseta D20",
+    "sku": "CAMI003",
+    "preco": 59.90,
+    "categoria": "Vestuário",
+    "tags": ["camiseta", "d20", "geek"],
+    "descricao": "Camiseta preta com estampa de dado D20."
+  },
+  {
+    "nome": "Livro D&D 5ª Edição: Livro do Jogador",
+    "sku": "LIVRO001",
+    "preco": 199.90,
+    "categoria": "Livros",
+    "tags": ["D&D", "livro", "RPG"],
+    "descricao": "Manual completo para jogadores de Dungeons & Dragons 5ª edição, com regras, raças e classes."
+  },
+  {
+    "nome": "Livro D&D 5ª Edição: Guia do Mestre",
+    "sku": "LIVRO002",
+    "preco": 189.90,
+    "categoria": "Livros",
+    "tags": ["D&D", "mestre", "RPG"],
+    "descricao": "Guia essencial para mestres de Dungeons & Dragons, com dicas, regras avançadas e criação de aventuras."
+  },
+  {
+    "nome": "Livro D&D 5ª Edição: Monstros",
+    "sku": "LIVRO003",
+    "preco": 179.90,
+    "categoria": "Livros",
+    "tags": ["D&D", "monstros", "RPG"],
+    "descricao": "Livro com dezenas de criaturas e monstros para enriquecer suas campanhas de D&D."
+  },
+  {
+    "nome": "Livro RPG: Tormenta 20",
+    "sku": "LIVRO004",
+    "preco": 149.90,
+    "categoria": "Livros",
+    "tags": ["Tormenta", "RPG", "livro"],
+    "descricao": "Livro básico do sistema Tormenta 20, com regras, cenário e personagens para aventuras épicas."
+  },
+  {
+    "nome": "Escudo do Mestre de D&D",
+    "sku": "ACCE001",
+    "preco": 99.90,
+    "categoria": "Acessórios",
+    "tags": ["escudo", "mestre", "D&D", "RPG"],
+    "descricao": "Escudo do Mestre oficial de Dungeons & Dragons 5ª edição, com tabelas e informações rápidas para conduzir a aventura."
+  },
+  {
+    "nome": "Mapa de Aventuras – Terras Fantásticas",
+    "sku": "MAPA001",
+    "preco": 49.90,
+    "categoria": "Cenário",
+    "tags": ["mapa", "RPG", "aventura"],
+    "descricao": "Mapa ilustrado em papel de alta gramatura, ideal para ambientar campanhas de fantasia medieval."
+  },
+  {
+    "nome": "Caneca Crítico Natural 20",
+    "sku": "CANE001",
+    "preco": 39.90,
+    "categoria": "Utilidades",
+    "tags": ["caneca", "D20", "RPG", "geek"],
+    "descricao": "Caneca de cerâmica preta com a estampa 'Crítico Natural 20'."
+  },
+  {
+    "nome": "Miniatura de Orc Guerreiro",
+    "sku": "MINI003",
+    "preco": 49.90,
+    "categoria": "Miniaturas",
+    "tags": ["orc", "miniatura", "fantasia", "RPG"],
+    "descricao": "Miniatura detalhada de orc guerreiro com machado, perfeita para confrontos épicos nas mesas de RPG."
+  },
+  {
+    "nome": "Camiseta Crítico Natural",
+    "sku": "CAMI004",
+    "preco": 64.90,
+    "categoria": "Vestuário",
+    "tags": ["camiseta", "d20", "crítico", "geek"],
+    "descricao": "Camiseta vermelha com estampa de dado rolando um 20 natural."
+  },
+  {
+    "nome": "Livro Pathfinder 2ª Edição: Livro Básico",
+    "sku": "LIVRO005",
+    "preco": 179.90,
+    "categoria": "Livros",
+    "tags": ["Pathfinder", "RPG", "livro"],
+    "descricao": "Manual básico do sistema Pathfinder 2ª edição, com regras completas, ancestrais e classes para campanhas robustas."
+  },
+  {
+    "nome": "Kit de Pintura para Miniaturas",
+    "sku": "ACCE002",
+    "preco": 129.90,
+    "categoria": "Acessórios",
+    "tags": ["miniaturas", "pintura", "hobby"],
+    "descricao": "Kit completo com 12 tintas acrílicas, pincéis finos e primer para personalizar miniaturas de RPG."
+  },
+  {
+    "nome": "Tapete de Combate – Grid 1\"",
+    "sku": "ACCE003",
+    "preco": 119.90,
+    "categoria": "Acessórios",
+    "tags": ["grid", "mapa", "combate", "RPG"],
+    "descricao": "Tapete de vinil reutilizável com grid de 1 polegada para batalhas táticas em RPG de mesa."
+  }
+
+]
